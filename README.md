@@ -1,8 +1,11 @@
-## ✨ AJIN
-[![ppochaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppochaco&theme=shadow_blue&border_color=E4E2E2)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+## 안녕하세요 김아진입니다😀
+  
+현실의 문제를 서비스로 해결하는 프론트엔드 개발자입니다. <br/>
 
-### 🔗 알고리즘
-[![ppochaco's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=aj2039)](https://solved.ac/profile/aj2039)
+작은 불편함도 놓치지 않는 성격으로 <br/>
+컴포넌트 단위 리팩토링부터 서비스 마이그레이션까지 진행하며, <br/>
+사용자 경험과 구조 개선을 함께 고민해왔습니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fppochaco%2Fhit-counter&count_bg=%23FFFFFF&title_bg=%233F8EAA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
